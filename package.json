@@ -1,0 +1,26 @@
+{
+  "name": "vue-viewport-checker",
+  "version": "1.0.6",
+  "description": "A Vue mixin to determine if the component currently is in, above or below the viewport using IntersectionObserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/W3rff/vue-viewport-checker.git"
+  },
+  "keywords": [
+    "vue",
+    "viewport",
+    "viewportChecker",
+    "mixin",
+    "intersectionObserver"
+  ],
+  "author": "W3rff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/W3rff/vue-viewport-checker/issues"
+  },
+  "homepage": "https://github.com/W3rff/vue-viewport-checker#readme"
+}
